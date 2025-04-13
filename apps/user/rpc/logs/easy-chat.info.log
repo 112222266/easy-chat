@@ -1,0 +1,9 @@
+{"level":"info","ts":"2025-04-13T21:14:47.799+0800","caller":"logic/registerlogic.go:62","msg":"注册成功","userID":1}
+{"level":"info","ts":"2025-04-13T21:15:32.578+0800","caller":"logic/loginlogic.go:62","msg":"登录成功","userID":1}
+{"level":"info","ts":"2025-04-13T21:15:42.142+0800","caller":"logic/loginlogic.go:62","msg":"登录成功","userID":1}
+{"level":"info","ts":"2025-04-13T21:17:37.075+0800","caller":"logic/getuserlogic.go:47","msg":"成功获取用户信息","userId":"1","nickname":"那拉天娇"}
+{"level":"info","ts":"2025-04-13T21:17:43.330+0800","caller":"logic/getalluserslogic.go:52","msg":"获取所有用户成功","count":1}
+{"level":"info","ts":"2025-04-13T21:20:12.227+0800","caller":"logic/registerlogic.go:62","msg":"注册成功","userID":3}
+{"level":"info","ts":"2025-04-13T21:21:18.916+0800","caller":"logic/registerlogic.go:63","msg":"注册成功","userID":4}
+{"level":"info","ts":"2025-04-13T21:22:12.825+0800","caller":"logic/registerlogic.go:63","msg":"注册成功","userID":5}
+{"level":"info","ts":"2025-04-13T21:23:13.199+0800","caller":"logic/registerlogic.go:62","msg":"注册成功","userID":6}

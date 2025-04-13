@@ -1,0 +1,14 @@
+Name: user.rpc
+ListenOn: 0.0.0.0:8080
+#Etcd:
+#  Hosts:
+#  - 127.0.0.1:2379
+#  Key: user.rpc
+DataBase:
+  Source: root:123456@tcp(cloud:3306)/easy_chat?charset=utf8mb4&parseTime=True&loc=Local
+Log:
+  Dir: ./logs
+  AppName: easy-chat
+Jwt:
+  Expire: 86400
+  Secret: lianghl
